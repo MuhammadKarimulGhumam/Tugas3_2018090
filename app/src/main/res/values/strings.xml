@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TUGAS3ASLI</string>
+    <string name="Deskripsi_menu">Helm1</string>
+    <string name="Warna">Putih</string>
+    <string name="Kualitas">Ok</string>
+    <string name="Ukuran">L</string>
+    <string name="Harga">200.000</string>
+</resources>
